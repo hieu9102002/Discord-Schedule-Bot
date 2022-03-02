@@ -13,7 +13,7 @@ services:
     environment: 
         - TZ=Australia/Melbourne
         - CRON=0 30 6 * * MON-SAT
-        - BOT_TOKEN=NDU3NDQ2MTkyNzU0OTgyOTMy.WyS79w.0JzH1DBK-MVzbCRXQ71f0MmEo_Q
+        - BOT_TOKEN=?????????
 
   neo4j:
     image: neo4j:3.5.28
